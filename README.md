@@ -25,12 +25,12 @@
     
 - Terminal
    - If you are on a Mac:
-    - Default Terminal
-    - Iterm2 : [Iterm2](https://iterm2.com/)
+      - Default Terminal
+      - Iterm2 : [Iterm2](https://iterm2.com/)
   - If you are on a Windows:
-    - [Cgywin](https://www.cygwin.com/)
+      - [Cgywin](https://www.cygwin.com/)
   - If you are on Ubuntu:
-    - Default Terminal
+      - Default Terminal
     
 - [GitHub](https://github.com/)
     - Sign Up in Github website
