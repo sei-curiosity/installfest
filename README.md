@@ -24,12 +24,12 @@
     - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
     
 - Terminal
-  If you are on a Mac:
+   - If you are on a Mac:
     - Default Terminal
     - Iterm2 : [Iterm2](https://iterm2.com/)
-  If you are on a Windows:
+  - If you are on a Windows:
     - [Cgywin](https://www.cygwin.com/)
-  If you are on Ubuntu:
+  - If you are on Ubuntu:
     - Default Terminal
     
 - [GitHub](https://github.com/)
@@ -42,7 +42,7 @@
      Use Homebrew to install Git:
      ```brew install git```
   - If you are on Windows:
-    [Git](https://git-scm.com/downloads)
+    [Git](https://git-scm.com/download/win)
   - If you are on Ubuntu:
    ```sudo apt install git-all```
   
